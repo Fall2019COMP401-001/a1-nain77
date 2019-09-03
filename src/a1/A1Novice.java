@@ -11,6 +11,8 @@ public class A1Novice {
 		// Your code follows here.
 		int a = scan.nextInt();
 		
+		for (int i=0; i < a; i++) {
+		
 		String b = scan.next();
 		
 		String c = scan.next();
@@ -43,5 +45,5 @@ public class A1Novice {
 		
 		
 	}
-	
+	}
 }
