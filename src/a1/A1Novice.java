@@ -23,11 +23,25 @@ public class A1Novice {
 		
 		double g = scan.nextDouble();
 		
-		System.out.println(b.charAt(0) + ". " + c + ": ");
+		double h = 0.0;
+		
+		for (int i=0; i < d; i++) {
+			
+			h = e * g;
+			
+		}
+		
+		for (int i=0; i < a; i++) {
+			
+			System.out.println(b.charAt(0) + ". " + c + ": " + h);
+			
+		}
+		
 		
 //		let total = (d, e, g): double => {
 
 		
 		
 	}
+	
 }
